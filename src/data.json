@@ -1,0 +1,1147 @@
+{
+  "announcementText": "Free express shipping on orders over $700",
+  "hederMenu": [
+    {
+      "name": "Home",
+      "path": "/"
+    },
+    {
+      "name": "Shop",
+      "path": "/shop"
+    },
+    {
+      "name": "Contact",
+      "path": "/contact"
+    }
+  ],
+  "pages": {
+    "home": {
+      "pagetitle": "Great Leather Collection"
+    },
+    "collection": {
+      "pagetitle": "Great Leather Collection"
+    },
+    "contact": {
+      "pagetitle": "Great Leather Collection"
+    }
+  },
+  "banner": {
+    "homepage": {
+      "subtitle": "Nice TOP Series",
+      "pagetitle": "Great Leather Collection"
+    },
+    "collection": {
+      "subtitle": "Nice TOP Series",
+      "pagetitle": "All your Favorites in One Place"
+    },
+    "product": {
+      "subtitle": "Nice TOP Series",
+      "pagetitle": "All your Favorites in One Place"
+    },
+    "cart": {
+      "subtitle": "Nice TOP Series",
+      "pagetitle": "your Shopping cart items"
+    },
+    "checkout": {
+      "subtitle": "Nice TOP Series",
+      "pagetitle": "You're just a step away!"
+    },
+    "contact": {
+      "subtitle": "Nice TOP Series",
+      "pagetitle": "Great Leather Collection"
+    }
+  },
+  "categoriesTab": [
+    {
+      "key": "men",
+      "title": "Men"
+    },
+    {
+      "key": "women",
+      "title": "Women"
+    }
+  ],
+  "Products": [
+    {
+      "id": "7rewfwefe",
+      "status": "New",
+      "title": "Bvlgari Bvlgari Watch",
+      "slug": "bulgari",
+      "price": 4000.45,
+      "image": "p4.png",
+      "galleryImages": [
+        {
+          "title": "Bvlgari Aluminium",
+          "image": "p4.png",
+          "tag": "New"
+        },
+        {
+          "title": "Bvlgari Bvlgari Watch",
+          "image": "p2.png",
+          "tag": "New"
+        },
+        {
+          "title": "Bvlgari Aluminium",
+          "image": "p1.png",
+          "tag": "New"
+        },
+        {
+          "title": "Bvlgari Aluminium",
+          "image": "p3.png",
+          "tag": "New"
+        },
+        {
+          "title": "Bvlgari Aluminium",
+          "image": "p5.png",
+          "tag": "New"
+        }
+      ],
+      "producttab": [
+        {
+          "title": "Specifications",
+          "subtitle": "Product Specifications",
+          "paragraph1": "Since the first generation models launched in 1998, the Bvlgari Aluminium watch has redefined the potential of luxury sports watches.",
+          "listpoint": {
+            "list1": "Reference Number - 103146",
+            "list2": "Target Group - Women",
+            "list3": "Material - Pink Gold",
+            "list4": "Band - Pink Gold"
+          },
+          "content": "Serpenti Seduttori watch with 18K rose gold case and bracelet, 18K rose gold bezel set with diamonds and silver-white opaline dial Life in gold: with the Serpenti Seduttori watch, time becomes even more precious. Revisiting Bvlgari’s undisputed icon of seduction in a new design, the iconic teardrop-shaped head watch, thinner than ever, is enhanced by a sensual, extremely supple bracelet adorned with a hexagonal scale motif."
+        },
+        {
+          "title": "Description",
+          "subtitle": "Description for our store",
+          "paragraph1": "Serpenti Seduttori watch with 18K rose gold case and bracelet, 18K rose gold bezel set with diamonds and silver-white opaline dial Life in gold: with the Serpenti Seduttori watch, time becomes even more precious.",
+          "listpoint": {
+            "list1": "Dial Color - White",
+            "list2": "Movement - Quartz",
+            "list3": "Case Size - 33mm",
+            "list4": "Collection - Serpenti"
+          },
+          "content": "Serpenti Seduttori watch with 18K rose gold case and bracelet, 18K rose gold bezel set with diamonds and silver-white opaline dial"
+        }
+      ],
+      "Gender": "men",
+      "description": "Serpenti Seduttori watch with 18K rose gold case and bracelet, 18K rose gold bezel set with diamonds and silver-white opaline dial",
+      "brand": "Palm",
+      "sku": "#1234afgg",
+      "availability": "in stock",
+      "sizes": "m",
+      "colors": "Black",
+      "quantity": 0,
+      "category": "collection",
+      "inventoryQuantity": 10
+    },
+    {
+      "id": "fwf324",
+      "status": "New",
+      "title": "Octo Finissimo Watch",
+      "slug": "octo-finissimo",
+      "price": 7000.65,
+      "image": "p2.png",
+      "galleryImages": [
+        {
+          "title": "Bvlgari Aluminium",
+          "image": "p4.png",
+          "tag": "New"
+        },
+        {
+          "title": "Octo Finissimo Watch",
+          "image": "p2.png",
+          "tag": "New"
+        },
+        {
+          "title": "Bvlgari Aluminium",
+          "image": "p1.png",
+          "tag": "New"
+        },
+        {
+          "title": "Bvlgari Aluminium",
+          "image": "p3.png",
+          "tag": "New"
+        },
+        {
+          "title": "Bvlgari Aluminium",
+          "image": "p5.png",
+          "tag": "New"
+        }
+      ],
+      "producttab": [
+        {
+          "title": "Specifications",
+          "subtitle": "Product Specifications",
+          "paragraph1": "Octo Finissimo Automatic watch in 18K yellow gold with satin-finished polished case and extra-thin mechanical manufacture movement (2.33 mm thick), automatic winding and blue lacquered dial. Water-resistant to 100 meters.",
+          "listpoint": {
+            "list1": "Reference Number - 104076",
+            "list2": "Target Group - men",
+            "list3": "Material - aluminum",
+            "list4": "Band - Rubber"
+          },
+          "content": "Octo Finissimo Automatic watch in 18K yellow gold with satin-finished polished case and extra-thin mechanical manufacture movement (2.33 mm thick), automatic winding and blue lacquered dial. Water-resistant to 100 meters."
+        },
+        {
+          "title": "Description",
+          "subtitle": "Description for our store",
+          "paragraph1": "Octo Finissimo Automatic watch in 18K yellow gold with satin-finished polished case and extra-thin mechanical manufacture movement (2.33 mm thick), automatic winding and blue lacquered dial. Water-resistant to 100 meters.",
+          "listpoint": {
+            "list1": "Dial Color - White",
+            "list2": "Movement - Quartz",
+            "list3": "Case Size - 33mm",
+            "list4": "Collection - Serpenti"
+          },
+          "content": "Octo Finissimo Automatic watch in 18K yellow gold with satin-finished polished case and extra-thin mechanical manufacture movement (2.33 mm thick), automatic winding and blue lacquered dial. Water-resistant to 100 meters."
+        }
+      ],
+      "Gender": "men",
+      "description": "Octo Finissimo Automatic watch in 18K yellow gold with satin-finished polished case and extra-thin mechanical manufacture movement (2.33 mm thick), automatic winding and blue lacquered dial. Water-resistant to 100 meters.",
+      "brand": "Palm",
+      "sku": "#123423sd",
+      "availability": "in stock",
+      "sizes": "m",
+      "colors": "Black",
+      "quantity": 0,
+      "category": "collection",
+      "inventoryQuantity": 10
+    },
+    {
+      "id": "7rfg78y222",
+      "status": "New",
+      "title": "Bvlgari Aluminum Smeraldo",
+      "slug": "bvlgari-aluminium",
+      "price": 6000.43,
+      "image": "p5.png",
+      "galleryImages": [
+        {
+          "title": "Bvlgari Aluminium",
+          "image": "p4.png",
+          "tag": "New"
+        },
+        {
+          "title": "Octo Finissimo Watch",
+          "image": "p2.png",
+          "tag": "New"
+        },
+        {
+          "title": "Bvlgari Aluminium",
+          "image": "p1.png",
+          "tag": "New"
+        },
+        {
+          "title": "Bvlgari Aluminium",
+          "image": "p3.png",
+          "tag": "New"
+        },
+        {
+          "title": "Bvlgari Aluminium",
+          "image": "p5.png",
+          "tag": "New"
+        }
+      ],
+      "producttab": [
+        {
+          "title": "Specifications",
+          "subtitle": "Product Specifications",
+          "paragraph1": "Bvlgari Aluminium Smeraldo watch with mechanical manufacture movement, automatic winding, chronograph, 40 mm aluminium case, dark green rubber bezel and strap and green dial.",
+          "listpoint": {
+            "list1": "Reference Number - 103445",
+            "list2": "Target Group - men",
+            "list3": "Material - Titanium",
+            "list4": "Band - Rubber"
+          },
+          "content": "Bvlgari Aluminium Smeraldo watch with mechanical manufacture movement, automatic winding, chronograph, <br /><br />40 mm aluminium case, dark green rubber bezel and strap and green dial. Water-resistant to 100 meters. Limited edition of 1,000 pieces."
+        },
+        {
+          "title": "Description",
+          "subtitle": "Description for our store",
+          "paragraph1": "Since the first generation models launched in 1998, the Bvlgari Aluminium watch has redefined the potential of luxury sports watches. Crafted from completely unexpected materials, today’s iconic timepieces share the same pioneering allure as the original, speaking a universal language that transcends gender, age, trends and eras. Clean yet striking, the Bvlgari",
+          "listpoint": {
+            "list1": "Dial Color - White",
+            "list2": "Movement - Quartz",
+            "list3": "Case Size - 33mm",
+            "list4": "Collection - Serpenti"
+          },
+          "content": "Since the first generation models launched in 1998, the Bvlgari Aluminium watch has redefined the potential of luxury sports watches. <br /><br />Crafted from completely unexpected materials, today’s iconic timepieces share the same pioneering allure as the original, speaking a universal language that transcends gender, age, trends and eras. Clean yet striking, the Bvlgari"
+        }
+      ],
+      "Gender": "men",
+      "description": "Since the first generation models launched in 1998, the Bvlgari Aluminium watch has redefined the potential of luxury sports watches. Crafted from completely unexpected materials, today’s iconic timepieces share the same pioneering allure as the original, speaking a universal language that transcends gender, age, trends and eras. Clean yet striking, the Bvlgari",
+      "brand": "Palm",
+      "sku": "#1234afgg2w2",
+      "availability": "in stock",
+      "sizes": "m",
+      "colors": "Black",
+      "quantity": 0,
+      "category": "collection",
+      "inventoryQuantity": 10
+    },
+    {
+      "id": "7rfg78y",
+      "status": "New",
+      "title": "Aluminum Smeraldo Watch",
+      "slug": "smeraldo-watch",
+      "price": 60.00,
+      "image": "p1.png",
+      "galleryImages": [
+        {
+          "title": "Bvlgari Aluminium",
+          "image": "p4.png",
+          "tag": "New"
+        },
+        {
+          "title": "Octo Finissimo Watch",
+          "image": "p2.png",
+          "tag": "New"
+        },
+        {
+          "title": "Bvlgari Aluminium",
+          "image": "p1.png",
+          "tag": "New"
+        },
+        {
+          "title": "Bvlgari Aluminium",
+          "image": "p3.png",
+          "tag": "New"
+        },
+        {
+          "title": "Bvlgari Aluminium",
+          "image": "p5.png",
+          "tag": "New"
+        }
+      ],
+      "producttab": [
+        {
+          "title": "Specifications",
+          "subtitle": "Product Specifications",
+          "paragraph1": "Since the first generation models launched in 1998, the Bvlgari Aluminium watch has redefined the potential of luxury sports watches.",
+          "listpoint": {
+            "list1": "Reference Number - 103146",
+            "list2": "Target Group - Women",
+            "list3": "Material - Pink Gold",
+            "list4": "Band - Pink Gold"
+          },
+          "content": "Serpenti Seduttori watch with 18K rose gold case and bracelet, 18K rose gold bezel set with diamonds and silver-white opaline dial Life in gold: with the Serpenti Seduttori watch, time becomes even more precious. Revisiting Bvlgari’s undisputed icon of seduction in a new design, the iconic teardrop-shaped head watch, thinner than ever, is enhanced by a sensual, extremely supple bracelet adorned with a hexagonal scale motif."
+        },
+        {
+          "title": "Description",
+          "subtitle": "Description for our store",
+          "paragraph1": "Serpenti Seduttori watch with 18K rose gold case and bracelet, 18K rose gold bezel set with diamonds and silver-white opaline dial Life in gold: with the Serpenti Seduttori watch, time becomes even more precious.",
+          "listpoint": {
+            "list1": "Dial Color - White",
+            "list2": "Movement - Quartz",
+            "list3": "Case Size - 33mm",
+            "list4": "Collection - Serpenti"
+          },
+          "content": "Serpenti Seduttori watch with 18K rose gold case and bracelet, 18K rose gold bezel set with diamonds and silver-white opaline dial"
+        }
+      ],
+      "Gender": "men",
+      "description": "Since the first generation models launched in 1998, the Bvlgari Aluminium watch has redefined the potential of luxury sports watches. Crafted from completely unexpected materials, today’s iconic timepieces share the same pioneering allure as the original, speaking a universal language that transcends gender, age, trends and eras. Clean yet striking, the Bvlgari",
+      "brand": "Palm",
+      "sku": "#1234afgg",
+      "availability": "in stock",
+      "sizes": "m",
+      "colors": "Black",
+      "quantity": 0,
+      "category": "bestsellers",
+      "inventoryQuantity": 10
+    },
+    {
+      "id": "2334r34r1",
+      "status": "New",
+      "title": "Octo Finissimo Watch",
+      "slug": "finissimo-watch",
+      "price": 3400.00,
+      "image": "p2.png",
+     "galleryImages": [
+        {
+          "title": "Bvlgari Aluminium",
+          "image": "p4.png",
+          "tag": "New"
+        },
+        {
+          "title": "Octo Finissimo Watch",
+          "image": "p2.png",
+          "tag": "New"
+        },
+        {
+          "title": "Bvlgari Aluminium",
+          "image": "p1.png",
+          "tag": "New"
+        },
+        {
+          "title": "Bvlgari Aluminium",
+          "image": "p3.png",
+          "tag": "New"
+        },
+        {
+          "title": "Bvlgari Aluminium",
+          "image": "p5.png",
+          "tag": "New"
+        }
+      ],
+      "producttab": [
+        {
+          "title": "Specifications",
+          "subtitle": "Product Specifications",
+          "paragraph1": "Since the first generation models launched in 1998, the Bvlgari Aluminium watch has redefined the potential of luxury sports watches.",
+          "listpoint": {
+            "list1": "Reference Number - 103146",
+            "list2": "Target Group - Women",
+            "list3": "Material - Pink Gold",
+            "list4": "Band - Pink Gold"
+          },
+          "content": "Serpenti Seduttori watch with 18K rose gold case and bracelet, 18K rose gold bezel set with diamonds and silver-white opaline dial Life in gold: with the Serpenti Seduttori watch, time becomes even more precious. Revisiting Bvlgari’s undisputed icon of seduction in a new design, the iconic teardrop-shaped head watch, thinner than ever, is enhanced by a sensual, extremely supple bracelet adorned with a hexagonal scale motif."
+        },
+        {
+          "title": "Description",
+          "subtitle": "Description for our store",
+          "paragraph1": "Serpenti Seduttori watch with 18K rose gold case and bracelet, 18K rose gold bezel set with diamonds and silver-white opaline dial Life in gold: with the Serpenti Seduttori watch, time becomes even more precious.",
+          "listpoint": {
+            "list1": "Dial Color - White",
+            "list2": "Movement - Quartz",
+            "list3": "Case Size - 33mm",
+            "list4": "Collection - Serpenti"
+          },
+          "content": "Serpenti Seduttori watch with 18K rose gold case and bracelet, 18K rose gold bezel set with diamonds and silver-white opaline dial"
+        }
+      ],
+      "Gender": "women",
+      "description": "Timeless, the Bvlgari Bvlgari watch has embodied the bold creativity and unique style of Bvlgari for over 40 years. In 1977, the Roman Maison gave birth to the first Bvlgari Bvlgari timepiece adorned with the emblematic circular signature.",
+      "brand": "octo",
+      "sku": "#1234afgg",
+      "availability": "in stock",
+      "sizes": "m",
+      "colors": "Gray",
+      "quantity": 0,
+      "inventoryQuantity": 10,
+      "category": "bestsellers"
+    },
+    {
+      "id": "2334r34r2",
+      "status": "New",
+      "title": "Serpenti Tubogas Watch",
+      "slug": "Serpenti",
+      "price": 6000.65,
+      "image": "p3.png",
+      "galleryImages": [
+        {
+          "title": "Bvlgari Aluminium",
+          "image": "p4.png",
+          "tag": "New"
+        },
+        {
+          "title": "Octo Finissimo Watch",
+          "image": "p2.png",
+          "tag": "New"
+        },
+        {
+          "title": "Bvlgari Aluminium",
+          "image": "p1.png",
+          "tag": "New"
+        },
+        {
+          "title": "Bvlgari Aluminium",
+          "image": "p3.png",
+          "tag": "New"
+        },
+        {
+          "title": "Bvlgari Aluminium",
+          "image": "p5.png",
+          "tag": "New"
+        }
+      ],
+      "producttab": [
+        {
+          "title": "Specifications",
+          "subtitle": "Product Specifications",
+          "paragraph1": "Since the first generation models launched in 1998, the Bvlgari Aluminium watch has redefined the potential of luxury sports watches.",
+          "listpoint": {
+            "list1": "Reference Number - 103146",
+            "list2": "Target Group - Women",
+            "list3": "Material - Pink Gold",
+            "list4": "Band - Pink Gold"
+          },
+          "content": "Serpenti Seduttori watch with 18K rose gold case and bracelet, 18K rose gold bezel set with diamonds and silver-white opaline dial Life in gold: with the Serpenti Seduttori watch, time becomes even more precious. Revisiting Bvlgari’s undisputed icon of seduction in a new design, the iconic teardrop-shaped head watch, thinner than ever, is enhanced by a sensual, extremely supple bracelet adorned with a hexagonal scale motif."
+        },
+        {
+          "title": "Description",
+          "subtitle": "Description for our store",
+          "paragraph1": "Serpenti Seduttori watch with 18K rose gold case and bracelet, 18K rose gold bezel set with diamonds and silver-white opaline dial Life in gold: with the Serpenti Seduttori watch, time becomes even more precious.",
+          "listpoint": {
+            "list1": "Dial Color - White",
+            "list2": "Movement - Quartz",
+            "list3": "Case Size - 33mm",
+            "list4": "Collection - Serpenti"
+          },
+          "content": "Serpenti Seduttori watch with 18K rose gold case and bracelet, 18K rose gold bezel set with diamonds and silver-white opaline dial"
+        }
+      ],
+      "Gender": "women",
+      "description": "From the moment it was launched, this creation naturally found its place in the very closed circle of exceptional watches spanning the ages. The double logo, inspired by the circular inscriptions on ancient Roman coins, still demonstrates Bvlgari's exceptional ability to blend tradition and modernity in timeless creations.",
+      "brand": "Serpenti",
+      "sku": "#1234afgg",
+      "availability": "Out of stock",
+      "sizes": "L",
+      "colors": "Orange",
+      "quantity": 0,
+      "inventoryQuantity": 10,
+      "category": "bestsellers"
+    },
+    {
+      "id": "2334r34r3",
+      "status": "New",
+      "title": "Serpenti Tubogas Watch",
+      "slug": "Serpenti",
+      "price": 4000.55,
+      "image": "p3.png",
+      "galleryImages": [
+        {
+          "title": "Bvlgari Aluminium",
+          "image": "p4.png",
+          "tag": "New"
+        },
+        {
+          "title": "Octo Finissimo Watch",
+          "image": "p2.png",
+          "tag": "New"
+        },
+        {
+          "title": "Bvlgari Aluminium",
+          "image": "p1.png",
+          "tag": "New"
+        },
+        {
+          "title": "Bvlgari Aluminium",
+          "image": "p3.png",
+          "tag": "New"
+        },
+        {
+          "title": "Bvlgari Aluminium",
+          "image": "p5.png",
+          "tag": "New"
+        }
+      ],
+      "Gender": "men",
+      "description": "Marrying two of the most iconic emblems of Bvlgari design, the Serpenti Tubogas watch combines the sinuous allure of the serpent with the contemporary spirit of Tubogas technique.",
+      "brand": "Serpenti",
+      "sku": "#1234afgg",
+      "availability": "in stock",
+      "sizes": "m",
+      "colors": "Orange",
+      "quantity": 0,
+      "inventoryQuantity": 10,
+      "category": "bestsellers"
+    },
+    {
+      "id": "2334r34r4",
+      "status": "New",
+      "title": "Bvlgari Aluminum Watch",
+      "slug": "bvlgari",
+      "price": 6000.22,
+      "image": "p5.png",
+      "galleryImages": [
+        {
+          "title": "Bvlgari Aluminium",
+          "image": "p4.png",
+          "tag": "New"
+        },
+        {
+          "title": "Octo Finissimo Watch",
+          "image": "p2.png",
+          "tag": "New"
+        },
+        {
+          "title": "Bvlgari Aluminium",
+          "image": "p1.png",
+          "tag": "New"
+        },
+        {
+          "title": "Bvlgari Aluminium",
+          "image": "p3.png",
+          "tag": "New"
+        },
+        {
+          "title": "Bvlgari Aluminium",
+          "image": "p5.png",
+          "tag": "New"
+        }
+      ],
+      "producttab": [
+        {
+          "title": "Specifications",
+          "subtitle": "Product Specifications",
+          "paragraph1": "Since the first generation models launched in 1998, the Bvlgari Aluminium watch has redefined the potential of luxury sports watches.",
+          "listpoint": {
+            "list1": "Reference Number - 103146",
+            "list2": "Target Group - Women",
+            "list3": "Material - Pink Gold",
+            "list4": "Band - Pink Gold"
+          },
+          "content": "Since the first generation models launched in 1998, the Bvlgari Aluminium watch has redefined the potential of luxury sports watches."
+        },
+        {
+          "title": "Description",
+          "subtitle": "Description for our store",
+          "paragraph1": "Since the first generation models launched in 1998, the Bvlgari Aluminium watch has redefined the potential of luxury sports watches.",
+          "listpoint": {
+            "list1": "Dial Color - White",
+            "list2": "Movement - Quartz",
+            "list3": "Case Size - 33mm",
+            "list4": "Collection - Serpenti"
+          },
+          "content": "Since the first generation models launched in 1998, the Bvlgari Aluminium watch has redefined the potential of luxury sports watches."
+        }
+      ],
+      "Gender": "men",
+      "description": "Since the first generation models launched in 1998, the Bvlgari Aluminium watch has redefined the potential of luxury sports watches.",
+      "brand": "Bvlgari",
+      "sku": "#1234afgg",
+      "availability": "",
+      "sizes": "m",
+      "colors": "Black",
+      "quantity": 0,
+      "inventoryQuantity": 10,
+      "category": "bestsellers"
+    },
+    {
+      "id": "2334r34r5",
+      "status": "New",
+      "title": "Bvlgari Aluminum Watch",
+      "slug": "bvlgari-aluminum",
+      "price": 9000.00,
+      "image": "p5.png",
+     "galleryImages": [
+        {
+          "title": "Bvlgari Aluminium",
+          "image": "p4.png",
+          "tag": "New"
+        },
+        {
+          "title": "Octo Finissimo Watch",
+          "image": "p2.png",
+          "tag": "New"
+        },
+        {
+          "title": "Bvlgari Aluminium",
+          "image": "p1.png",
+          "tag": "New"
+        },
+        {
+          "title": "Bvlgari Aluminium",
+          "image": "p3.png",
+          "tag": "New"
+        },
+        {
+          "title": "Bvlgari Aluminium",
+          "image": "p5.png",
+          "tag": "New"
+        }
+      ],
+      "producttab": [
+        {
+          "title": "Specifications",
+          "subtitle": "Product Specifications",
+          "paragraph1": "Since the first generation models launched in 1998, the Bvlgari Aluminium watch has redefined the potential of luxury sports watches.",
+          "listpoint": {
+            "list1": "Reference Number - 103146",
+            "list2": "Target Group - Women",
+            "list3": "Material - Pink Gold",
+            "list4": "Band - Pink Gold"
+          },
+          "content": "Serpenti Seduttori watch with 18K rose gold case and bracelet, 18K rose gold bezel set with diamonds and silver-white opaline dial Life in gold: with the Serpenti Seduttori watch, time becomes even more precious. Revisiting Bvlgari’s undisputed icon of seduction in a new design, the iconic teardrop-shaped head watch, thinner than ever, is enhanced by a sensual, extremely supple bracelet adorned with a hexagonal scale motif."
+        },
+        {
+          "title": "Description",
+          "subtitle": "Description for our store",
+          "paragraph1": "Serpenti Seduttori watch with 18K rose gold case and bracelet, 18K rose gold bezel set with diamonds and silver-white opaline dial Life in gold: with the Serpenti Seduttori watch, time becomes even more precious.",
+          "listpoint": {
+            "list1": "Dial Color - White",
+            "list2": "Movement - Quartz",
+            "list3": "Case Size - 33mm",
+            "list4": "Collection - Serpenti"
+          },
+          "content": "Serpenti Seduttori watch with 18K rose gold case and bracelet, 18K rose gold bezel set with diamonds and silver-white opaline dial"
+        }
+      ],
+      "Gender": "men",
+      "description": "Since the first generation models launched in 1998, the Bvlgari Aluminium watch has redefined the potential of luxury sports watches.",
+      "brand": "Bvlgari",
+      "sku": "#1234afgg",
+      "availability": "",
+      "sizes": "xl",
+      "colors": "Black",
+      "quantity": 0,
+      "inventoryQuantity": 10,
+      "category": "bestsellers"
+    },
+    {
+      "id": "2334r34r6",
+      "status": "New",
+      "title": "Serpenti Tubogas Watch",
+      "slug": "Serpenti",
+      "price": 2000.30,
+      "image": "p4.png",
+      "galleryImages": [
+        {
+          "title": "Bvlgari Aluminium",
+          "image": "p4.png",
+          "tag": "New"
+        },
+        {
+          "title": "Octo Finissimo Watch",
+          "image": "p2.png",
+          "tag": "New"
+        },
+        {
+          "title": "Bvlgari Aluminium",
+          "image": "p1.png",
+          "tag": "New"
+        },
+        {
+          "title": "Bvlgari Aluminium",
+          "image": "p3.png",
+          "tag": "New"
+        },
+        {
+          "title": "Bvlgari Aluminium",
+          "image": "p5.png",
+          "tag": "New"
+        }
+      ],
+      "producttab": [
+        {
+          "title": "Specifications",
+          "subtitle": "Product Specifications",
+          "paragraph1": "Since the first generation models launched in 1998, the Bvlgari Aluminium watch has redefined the potential of luxury sports watches.",
+          "listpoint": {
+            "list1": "Reference Number - 103146",
+            "list2": "Target Group - Women",
+            "list3": "Material - Pink Gold",
+            "list4": "Band - Pink Gold"
+          },
+          "content": "Serpenti Seduttori watch with 18K rose gold case and bracelet, 18K rose gold bezel set with diamonds and silver-white opaline dial Life in gold: with the Serpenti Seduttori watch, time becomes even more precious. Revisiting Bvlgari’s undisputed icon of seduction in a new design, the iconic teardrop-shaped head watch, thinner than ever, is enhanced by a sensual, extremely supple bracelet adorned with a hexagonal scale motif."
+        },
+        {
+          "title": "Description",
+          "subtitle": "Description for our store",
+          "paragraph1": "Serpenti Seduttori watch with 18K rose gold case and bracelet, 18K rose gold bezel set with diamonds and silver-white opaline dial Life in gold: with the Serpenti Seduttori watch, time becomes even more precious.",
+          "listpoint": {
+            "list1": "Dial Color - White",
+            "list2": "Movement - Quartz",
+            "list3": "Case Size - 33mm",
+            "list4": "Collection - Serpenti"
+          },
+          "content": "Serpenti Seduttori watch with 18K rose gold case and bracelet, 18K rose gold bezel set with diamonds and silver-white opaline dial"
+        }
+      ],
+      "Gender": "men",
+      "description": "From the moment it was launched, this creation naturally found its place in the very closed circle of exceptional watches spanning the ages. The double logo, inspired by the circular inscriptions on ancient Roman coins, still demonstrates Bvlgari's exceptional ability to blend tradition and modernity in timeless creations.",
+      "brand": "Bvlgari",
+      "sku": "#1234afgg",
+      "availability": "in stock",
+      "sizes": "m",
+      "colors": "Yellow",
+      "quantity": 0,
+      "inventoryQuantity": 10,
+      "category": "bestsellers"
+    },
+    {
+      "id": "2334r34r7",
+      "status": "New",
+      "title": "Bvlgari Aluminum Smeraldo",
+      "slug": "bvlgari-aluminum",
+      "price": 3000.20,
+      "image": "p1.png",
+      "galleryImages": [
+        {
+          "title": "Bvlgari Aluminium",
+          "image": "p4.png",
+          "tag": "New"
+        },
+        {
+          "title": "Octo Finissimo Watch",
+          "image": "p2.png",
+          "tag": "New"
+        },
+        {
+          "title": "Bvlgari Aluminium",
+          "image": "p1.png",
+          "tag": "New"
+        },
+        {
+          "title": "Bvlgari Aluminium",
+          "image": "p3.png",
+          "tag": "New"
+        },
+        {
+          "title": "Bvlgari Aluminium",
+          "image": "p5.png",
+          "tag": "New"
+        }
+      ],
+      "producttab": [
+        {
+          "title": "Specifications",
+          "subtitle": "Product Specifications",
+          "paragraph1": "Since the first generation models launched in 1998, the Bvlgari Aluminium watch has redefined the potential of luxury sports watches.",
+          "listpoint": {
+            "list1": "Reference Number - 103146",
+            "list2": "Target Group - Women",
+            "list3": "Material - Pink Gold",
+            "list4": "Band - Pink Gold"
+          },
+          "content": "Serpenti Seduttori watch with 18K rose gold case and bracelet, 18K rose gold bezel set with diamonds and silver-white opaline dial Life in gold: with the Serpenti Seduttori watch, time becomes even more precious. Revisiting Bvlgari’s undisputed icon of seduction in a new design, the iconic teardrop-shaped head watch, thinner than ever, is enhanced by a sensual, extremely supple bracelet adorned with a hexagonal scale motif."
+        },
+        {
+          "title": "Description",
+          "subtitle": "Description for our store",
+          "paragraph1": "Serpenti Seduttori watch with 18K rose gold case and bracelet, 18K rose gold bezel set with diamonds and silver-white opaline dial Life in gold: with the Serpenti Seduttori watch, time becomes even more precious.",
+          "listpoint": {
+            "list1": "Dial Color - White",
+            "list2": "Movement - Quartz",
+            "list3": "Case Size - 33mm",
+            "list4": "Collection - Serpenti"
+          },
+          "content": "Serpenti Seduttori watch with 18K rose gold case and bracelet, 18K rose gold bezel set with diamonds and silver-white opaline dial"
+        }
+      ],
+      "Gender": "women",
+      "description": "From the moment it was launched, this creation naturally found its place in the very closed circle of exceptional watches spanning the ages. The double logo, inspired by the circular inscriptions on ancient Roman coins, still demonstrates Bvlgari's exceptional ability to blend tradition and modernity in timeless creations.",
+      "brand": "Serpenti",
+      "sku": "#1234afgg",
+      "availability": "",
+      "sizes": "m",
+      "colors": "Yellow",
+      "quantity": 0,
+      "inventoryQuantity": 10,
+      "category": "bestsellers"
+    },
+    {
+      "id": "2334r34r8",
+      "status": "New",
+      "title": "Bvlgari Aluminum Watch",
+      "slug": "bvlgari",
+      "price": 6000.50,
+      "image": "p5.png",
+     "galleryImages": [
+        {
+          "title": "Bvlgari Aluminium",
+          "image": "p4.png",
+          "tag": "New"
+        },
+        {
+          "title": "Octo Finissimo Watch",
+          "image": "p2.png",
+          "tag": "New"
+        },
+        {
+          "title": "Bvlgari Aluminium",
+          "image": "p1.png",
+          "tag": "New"
+        },
+        {
+          "title": "Bvlgari Aluminium",
+          "image": "p3.png",
+          "tag": "New"
+        },
+        {
+          "title": "Bvlgari Aluminium",
+          "image": "p5.png",
+          "tag": "New"
+        }
+      ],
+      "producttab": [
+        {
+          "title": "Specifications",
+          "subtitle": "Product Specifications",
+          "paragraph1": "Since the first generation models launched in 1998, the Bvlgari Aluminium watch has redefined the potential of luxury sports watches.",
+          "listpoint": {
+            "list1": "Reference Number - 103146",
+            "list2": "Target Group - Women",
+            "list3": "Material - Pink Gold",
+            "list4": "Band - Pink Gold"
+          },
+          "content": "Serpenti Seduttori watch with 18K rose gold case and bracelet, 18K rose gold bezel set with diamonds and silver-white opaline dial Life in gold: with the Serpenti Seduttori watch, time becomes even more precious. Revisiting Bvlgari’s undisputed icon of seduction in a new design, the iconic teardrop-shaped head watch, thinner than ever, is enhanced by a sensual, extremely supple bracelet adorned with a hexagonal scale motif."
+        },
+        {
+          "title": "Description",
+          "subtitle": "Description for our store",
+          "paragraph1": "Serpenti Seduttori watch with 18K rose gold case and bracelet, 18K rose gold bezel set with diamonds and silver-white opaline dial Life in gold: with the Serpenti Seduttori watch, time becomes even more precious.",
+          "listpoint": {
+            "list1": "Dial Color - White",
+            "list2": "Movement - Quartz",
+            "list3": "Case Size - 33mm",
+            "list4": "Collection - Serpenti"
+          },
+          "content": "Serpenti Seduttori watch with 18K rose gold case and bracelet, 18K rose gold bezel set with diamonds and silver-white opaline dial"
+        }
+      ],
+      "Gender": "women",
+      "description": "Since the first generation models launched in 1998, the Bvlgari Aluminium watch has redefined the potential of luxury sports watches. Crafted from completely unexpected materials, today’s iconic timepieces share the same pioneering allure as the original",
+      "brand": "",
+      "sku": "#1234afgg",
+      "availability": "",
+      "sizes": "m",
+      "colors": "",
+      "quantity": 0,
+      "inventoryQuantity": 10,
+      "category": "bestsellers"
+    },
+    {
+      "id": "2334r34r9",
+      "status": "New",
+      "title": "Bvlgari Bvlgari Watch",
+      "slug": "bvlgari",
+      "price": 6000.89,
+      "image": "p4.png",
+     "galleryImages": [
+        {
+          "title": "Bvlgari Aluminium",
+          "image": "p4.png",
+          "tag": "New"
+        },
+        {
+          "title": "Octo Finissimo Watch",
+          "image": "p2.png",
+          "tag": "New"
+        },
+        {
+          "title": "Bvlgari Aluminium",
+          "image": "p1.png",
+          "tag": "New"
+        },
+        {
+          "title": "Bvlgari Aluminium",
+          "image": "p3.png",
+          "tag": "New"
+        },
+        {
+          "title": "Bvlgari Aluminium",
+          "image": "p5.png",
+          "tag": "New"
+        }
+      ],
+      "producttab": [
+        {
+          "title": "Specifications",
+          "subtitle": "Product Specifications",
+          "paragraph1": "Timeless, the Bvlgari Bvlgari watch has embodied the bold creativity and unique style of Bvlgari for over 40 years. In 1977, the Roman Maison gave birth to the first Bvlgari Bvlgari timepiece adorned with the emblematic circular signature.",
+          "listpoint": {
+            "list1": "Reference Number - 103146",
+            "list2": "Target Group - Women",
+            "list3": "Material - Pink Gold",
+            "list4": "Band - Pink Gold"
+          },
+          "content": "Timeless, the Bvlgari Bvlgari watch has embodied the bold creativity and unique style of Bvlgari for over 40 years. In 1977, the Roman Maison gave birth to the first Bvlgari Bvlgari timepiece adorned with the emblematic circular signature."
+        },
+        {
+          "title": "Description",
+          "subtitle": "Description for our store",
+          "paragraph1": "Serpenti Seduttori watch with 18K rose gold case and bracelet, 18K rose gold bezel set with diamonds and silver-white opaline dial Life in gold: with the Serpenti Seduttori watch, time becomes even more precious.",
+          "listpoint": {
+            "list1": "Dial Color - White",
+            "list2": "Movement - Quartz",
+            "list3": "Case Size - 33mm",
+            "list4": "Collection - Serpenti"
+          },
+          "content": "Serpenti Seduttori watch with 18K rose gold case and bracelet, 18K rose gold bezel set with diamonds and silver-white opaline dial"
+        }
+      ],
+      "Gender": "women",
+      "description": "Timeless, the Bvlgari Bvlgari watch has embodied the bold creativity and unique style of Bvlgari for over 40 years. In 1977, the Roman Maison gave birth to the first Bvlgari Bvlgari timepiece adorned with the emblematic circular signature.",
+      "brand": "Bvlgari",
+      "sku": "#1234afgg",
+      "availability": "",
+      "sizes": "m",
+      "colors": "",
+      "quantity": 0,
+      "inventoryQuantity": 10,
+      "category": "bestsellers"
+    }
+  ],
+  "IconTextContent": {
+    "icon1": {
+      "icon": "WordWide",
+      "title": "World wide Delivery"
+    },
+    "icon2": {
+      "icon": "Returns",
+      "title": "FREE 60-DAY RETURNS"
+    },
+    "icon3": {
+      "icon": "Warranty",
+      "title": "24 MONTH WARRANTY"
+    },
+    "icon4": {
+      "icon": "Checkout",
+      "title": "100% SECRUE CHECKOUT"
+    }
+  },
+  "ImageTextSection": {
+    "subtitle": "GIFT BOXES",
+    "title": "GIFT BOXES",
+    "paragraph": "Inspired by a piece from 1916 created during the Belle Époque and Art Nouveau period",
+    "button": "Special Offer"
+  },
+  "accordionData": {
+    "acc1": {
+      "title": "Timeless, the Bvlgari Bvlgari watch has embodied",
+      "content": "Timeless, the Bvlgari Bvlgari watch has embodied the bold creativity and unique style of Bvlgari for over 40 years. In 1977, the Roman Maison gave birth to the first Bvlgari Bvlgari timepiece adorned with the emblematic circular signature."
+    },
+    "acc2": {
+      "title": "Bvlgari Bvlgari watch with quartz movement",
+      "content": "From the moment it was launched, this creation naturally found its place in the very closed circle of exceptional watches spanning the ages."
+    },
+    "acc3": {
+      "title": "Timeless, the Bvlgari Bvlgari watch has embodied",
+      "content": "The double logo, inspired by the circular inscriptions on ancient Roman coins, still demonstrates Bvlgari's exceptional ability to blend tradition and modernity in timeless creations."
+    },
+    "acc4": {
+      "title": "Bvlgari Bvlgari watch with quartz movement",
+      "content": "Bvlgari Bvlgari watch with quartz movement, 33 mm 18K rose gold and stainless steel case, 18K rose gold crown set with a cabochon-cut pink stone."
+    },
+    "acc5": {
+      "title": "Timeless, the Bvlgari Bvlgari watch has embodied",
+      "content": "Marrying two of the most iconic emblems of Bvlgari design, the Serpenti Tubogas watch combines the sinuous allure of the serpent with the contemporary spirit of Tubogas technique."
+    }
+  },
+  "producttab": {
+    "tab1": {
+      "title": "Description",
+      "subtitle": "Product Description",
+      "paragraph1": "Aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate",
+      "listpoint": {
+        "list1": "Seacula quarta decima et quinta decima",
+        "list2": "Lorem ipsum dolor sit amet, consectetuer",
+        "list3": "24/7 live support",
+        "list4": "Claritas est etiam processus",
+        "list5": "te feugait nulla facilisi."
+      },
+      "content": "Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. <br /><br />Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per. <br /><br />seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum."
+    },
+    "tab2": {
+      "title": "Description",
+      "subtitle": "Shipping policy for our store",
+      "paragraph1": "Marrying two of the most iconic emblems of Bvlgari design, the Serpenti Tubogas watch combines the sinuous allure of the serpent with the contemporary spirit of Tubogas technique.",
+      "listpoint": {
+        "list1": "1-2 business days (Typically by end of day)",
+        "list2": "30 days money back guaranty",
+        "list3": "24/7 live support",
+        "list4": "luptatum zzril delenit augue duis dolore",
+        "list5": "te feugait nulla facilisi."
+      },
+      "content": "Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. <br /><br />Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per. <br /><br />seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum."
+    }
+  },
+  "checkoutAccordion": [
+    {
+      "title": "Shipping address",
+      "key": "Shipping address"
+    },
+    {
+      "title": "Payment",
+      "key": "Payment"
+    },
+    {
+      "title": "Contact Information",
+      "key": "Contact Information"
+    }
+  ],
+  "FooterTopOffers": {
+    "point1": {
+      "points": "1",
+      "title": "Gift boxes",
+      "text": "Finished products products and gift wrapping"
+    },
+    "point2": {
+      "points": "2",
+      "title": "Promotions",
+      "text": "Large promotions with numerous discounts"
+    },
+    "point3": {
+      "points": "3",
+      "title": "Shipping",
+      "text": "Free shipping on any order from $ 150"
+    },
+    "point4": {
+      "points": "4",
+      "title": "Quality",
+      "text": "All products are made by engineers from India"
+    }
+  },
+  "aboutourstore": {
+    "title": "ABOUT OUR STORE",
+    "paragraph": "One may not need charts and graphs at this point to know",
+    "phone": "(91) 8820545556",
+    "email": "info@demo.com"
+  },
+  "FooterMenu": {
+    "Quick Links": [
+      {
+        "name": "Home",
+        "path": "/"
+      },
+      {
+        "name": "Shop",
+        "path": "/shop"
+      },
+      {
+        "name": "Products",
+        "path": "#"
+      },
+      {
+        "name": "Watches",
+        "path": "#"
+      },
+      {
+        "name": "Contact",
+        "path": "/contact"
+      }
+    ],
+    "Services": [
+      {
+        "name": "New Arrivals",
+        "path": "#"
+      },
+      {
+        "name": "Fashion",
+        "path": "#"
+      },
+      {
+        "name": "Men",
+        "path": "#"
+      },
+      {
+        "name": "Women",
+        "path": "#"
+      },
+      {
+        "name": "Watches",
+        "path": "#"
+      }
+    ],
+    "Your Account": [
+      {
+        "name": "Search",
+        "path": "#"
+      },
+      {
+        "name": "Delivery Information",
+        "path": "#"
+      },
+      {
+        "name": "Order Tracking",
+        "path": "#"
+      },
+      {
+        "name": "Terms and Conditions",
+        "path": "#"
+      },
+      {
+        "name": "Shipping & Refund",
+        "path": "#"
+      }
+    ]
+  }
+}
