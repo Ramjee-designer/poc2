@@ -1,13 +1,12 @@
 import { logo } from "../utils/images";
-import Announcement from "./announcement";
 import { Link } from "react-router-dom";
 import { hederMenu } from "../data.json";
 import { useState } from "react";
-// import {CartButton} from "../components/common/CartButton";
 import { useCart } from "../utils/CartContext";
 
 import { HeaderCartIcon } from "./common/HeaderCartIcon";
 import CartDrawer from "./CartDrawer";
+import Announcement from "./Announcement";
 
 export default function Header() {
   const [drawerOpen, setDrawerOpen] = useState(false);
