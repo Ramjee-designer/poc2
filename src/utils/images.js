@@ -14,7 +14,7 @@ import p3 from "../../src/assets/p3.png";
 import p4 from "../../src/assets/p4.png"; 
 import p5 from "../../src/assets/p5.png"; 
 import ImgAcc from "../../src/assets/acc-img.jpg";
-import ImgText from "../../src/assets/img-text.jpg";
+import ImgTextsection from "../../src/assets/img-text.jpg";
 
 
 const images = {
@@ -33,7 +33,7 @@ const images = {
   "product3.png": Product3,
   "imgtextbanner.png": ImgTextbanner,
   "acc-img.jpg":ImgAcc,
-  "img-text.jpg":ImgText,
+  "img-text.jpg":ImgTextsection,
 };
 
 // ✅ Function to get image by filename
@@ -43,4 +43,4 @@ export function getImageByFileName(filename) {
 
 
 
-export {logo, featureImage, featureImage2, featureImage3, flatsale, ImgAcc, Product1, Product2, Product3, ImgTextbanner, ImgText};
+export {logo, featureImage, featureImage2, featureImage3, flatsale, ImgAcc, Product1, Product2, Product3, ImgTextbanner, ImgTextsection};

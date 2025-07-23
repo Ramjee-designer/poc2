@@ -1,7 +1,8 @@
 import data from "../data.json";
 
 import { Link } from "react-router-dom";
-import { ImgTextbanner } from "../utils/images";
+import { ImgTextsection } from "../utils/images";
+
 
 export default function ImgText() {
   return (
@@ -18,7 +19,7 @@ export default function ImgText() {
           </div>
         </div>
         <div className="image-banner">
-          <img src={ImgTextbanner} alt="Image" title="Image" />
+          <img src={ImgTextsection} alt="Image" title="Image" />
         </div>
       </div>
     </div>
