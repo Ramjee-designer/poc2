@@ -81,7 +81,7 @@ console.log(productgallery);
       >
         {productgallery.map((product, index) => (
           <SwiperSlide key={index}>
-            <img src={`../../src/assets/${product.image}`} alt={`Thumb ${index + 1}`} />
+            <img src={getImageByFileName(product.image)} alt={`Thumb ${index + 1}`} />
           </SwiperSlide>
         ))}
       </Swiper>
