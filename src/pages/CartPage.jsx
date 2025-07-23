@@ -4,6 +4,7 @@ import { Products } from "../data.json";
 import { Link } from "react-router-dom";
 import DeleteIcon from "../assets/icons/DeleteIcon";
 import Banner from "../components/common/Banner";
+import { getImageByFileName } from "../utils/images";
 
 export default function CartPage() {
   const {
@@ -39,7 +40,7 @@ export default function CartPage() {
                   <div className="cart-item" key={index}>
                     <div className="cart-image">
                       <img
-                        src={`../../src/assets/${product.image}`}
+                        src={getImageByFileName(product.image)}
                         alt={product.title}
                         title={product.title}
                       />

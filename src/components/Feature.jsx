@@ -3,11 +3,15 @@ import data from "../data.json"; // JSON path
 import { Link } from "react-router-dom";
 import { FaArrowRight } from "react-icons/fa";
 import { Products } from "../data.json";
+import { getImageByFileName } from "../utils/images";
+
 
 
 const collectionProducts = data.Products.filter(
   (product) => product.category === "collection"
 );
+
+
 
 export default function Feature() {
   return (
@@ -22,7 +26,7 @@ export default function Feature() {
                 </div>
                 <div className="feature-img">
                   <img
-                    src={`../../src/assets/${product.image}`}
+                    src={getImageByFileName(product.image)} 
                     alt={product.title}
                     title={product.title}
                   />

@@ -4,10 +4,7 @@ import { Products } from "../data.json";
 import { useLocation } from "react-router-dom";
 import { Link } from "react-router-dom";
 import { AddToCartButton } from "../components/common/AddToCartButton";
-
-// const brands = ["Rolex", "Omega", "Seiko"];
-// const colors = ["Black", "Silver", "Gold"];
-// const sizes = ["S", "M", "L"];
+import { getImageByFileName } from "../utils/images";
 
 export default function Collection() {
   const location = useLocation();
@@ -20,44 +17,6 @@ export default function Collection() {
   };
 
   const [selectedProducts, setSelectedProducts] = useState(Products);
-
-  // filter
-  // const [filters, setFilters] = useState({
-  //     available: false,
-  //     brands: [],
-  //     colors: [],
-  //     sizes: [],
-  //     minPrice: "",
-  //     maxPrice: "",
-  //   });
-
-  //   const handleCheckboxChange = (category, value) => {
-  //     setFilters((prev) => {
-  //       const updated = prev[category].includes(value)
-  //         ? prev[category].filter((v) => v !== value)
-  //         : [...prev[category], value];
-  //       return { ...prev, [category]: updated };
-  //     });
-  //   };
-
-  //   const handleInputChange = (e) => {
-  //     const { name, value, type, checked } = e.target;
-  //     setFilters((prev) => ({
-  //       ...prev,
-  //       [name]: type === "checkbox" ? checked : value,
-  //     }));
-  //   };
-
-  //   const filteredProducts = products.filter((product) => {
-  //     return (
-  //       (!filters.available || product.available) &&
-  //       (filters.brands.length === 0 || filters.brands.includes(product.brand)) &&
-  //       (filters.colors.length === 0 || filters.colors.includes(product.color)) &&
-  //       (filters.sizes.length === 0 || filters.sizes.includes(product.size)) &&
-  //       (!filters.minPrice || product.price >= parseFloat(filters.minPrice)) &&
-  //       (!filters.maxPrice || product.price <= parseFloat(filters.maxPrice))
-  //     );
-  //   });
 
   return (
     <>
@@ -250,7 +209,7 @@ export default function Collection() {
                             </div>
                             <div className="feature-img">
                               <img
-                                src={`../../src/assets/${product.image}`}
+                                src={getImageByFileName(product.image)}
                                 alt={product.title}
                                 title={product.title}
                               />

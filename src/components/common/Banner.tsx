@@ -27,7 +27,7 @@ export default function Banner() {
   };
 
   const pageData = getPageData();
-  console.log(location);
+  // console.log(location);
   // console.log("PageData:", pageData);
   return (
     <div className="container">

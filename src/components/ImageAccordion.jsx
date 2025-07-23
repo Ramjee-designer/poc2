@@ -1,8 +1,9 @@
 import { useState } from "react";
 // import data from "../data.json";
-import ImgAcc from "../../src/assets/acc-img.jpg";
+
 import { Link } from "react-router-dom";
 import Accordion from "./common/Accordion";
+import { ImgAcc } from "../utils/images";
 
 
 export default function ImageAccordion() {

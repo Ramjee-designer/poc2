@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 // import CartIcon from "../assets/icons/Cart";
 import { useCart } from "../utils/CartContext";
 import { AddToCartButton } from "./common/AddToCartButton";
-
+import { getImageByFileName } from "../utils/images";
 
 
 export default function Categories() {
@@ -53,7 +53,7 @@ export default function Categories() {
                   </div>
                   <div className="feature-img">
                     <img
-                      src={`../../src/assets/${product.image}`}
+                      src={getImageByFileName(product.image)}
                       alt={product.title}
                       title={product.title}
                     />

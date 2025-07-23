@@ -1,6 +1,7 @@
 import data from "../data.json";
-import ImgTextbanner from "../../src/assets/img-text.jpg";
+
 import { Link } from "react-router-dom";
+import { ImgTextbanner } from "../utils/images";
 
 export default function ImgText() {
   return (

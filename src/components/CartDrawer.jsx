@@ -3,6 +3,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import DeleteIcon from "../assets/icons/DeleteIcon";
 import CloseIcon from "../assets/icons/CloseIcon";
+import { getImageByFileName } from "../utils/images";
 
 export default function CartDrawer() {
   const {
@@ -38,7 +39,7 @@ export default function CartDrawer() {
               <div className="cart-item" key={index}>
                 <div className="cart-image">
                   <img
-                    src={`../../src/assets/${product.image}`}
+                    src={getImageByFileName(product.image)}
                     alt={product.title}
                     title={product.title}
                     width={50}

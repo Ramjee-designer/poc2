@@ -6,13 +6,8 @@ import "swiper/css";
 import "swiper/css/thumbs";
 import "swiper/css/free-mode";
 import "swiper/css/navigation";
+import { getImageByFileName } from "../utils/images";
 
-// import product1 from "../../src/assets/1.png";
-// import product2 from "../../src/assets/2.png";
-// import product3 from "../../src/assets/3.png";
-// import product4 from "../../src/assets/4.png";
-// import product5 from "../../src/assets/1.png";
-// import product6 from "../../src/assets/2.png";
 
 import LeftArrow from "../assets/icons/LeftArrow";
 import RightArrow from "../assets/icons/RightArrow";
@@ -38,7 +33,7 @@ console.log(productgallery);
       >
         {productgallery.map((product, index) => (
           <SwiperSlide key={index}>
-            <img src={`../../src/assets/${product.image}`} alt={`Product ${index + 1}`} />
+            <img src={getImageByFileName(product.image)} alt={`Product ${index + 1}`} />
           </SwiperSlide>
         ))}
       </Swiper>

@@ -8,6 +8,7 @@ import "swiper/css/navigation";
 import data from "../data.json";
 import { Link } from "react-router-dom";
 import CartIcon from "../assets/icons/Cart";
+import { getImageByFileName } from "../utils/images";
 
 import LeftArrow from "../assets/icons/LeftArrow";
 import RightArrow from "../assets/icons/RightArrow";
@@ -66,7 +67,7 @@ export default function BestSellers() {
                       </div>
                       <div className="feature-img">
                         <img
-                          src={`../../src/assets/${product.image}`}
+                          src={getImageByFileName(product.image)}
                           alt={product.title}
                           title={product.title}
                         />
